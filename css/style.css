@@ -123,8 +123,12 @@ i.fas.fa-search {
 
 /* Norse Map */
 #norse-map iframe {
-  margin-top: -151px;
+  margin-top: -150px;
   border: unset !important;
+}
+#training-map img{ 
+	margin-top: -148px;
+	border: unset !important;
 }
 /*location map */
 #location-map iframe {
